@@ -43,3 +43,7 @@ int main() {
     
     return 0;
 }
+
+// if we need to read the two vectors have to initialize like line no 14.
+// when pushing the elements into vector through push_back function don't mention its size.
+// observe 32,33 lines must be in loop according to question.
