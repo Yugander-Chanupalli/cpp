@@ -62,3 +62,7 @@ int main() {
     
     return 0;
 }
+
+// Defining the class declaring the variables must be in private limited to this class then using public we set and get functions for storing and printing data.
+// To print data in a single line use to_string() function it will convert int to string syntax std::to_string(variable).
+
