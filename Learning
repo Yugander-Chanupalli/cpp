@@ -1,1 +1,3 @@
-
+srand(time(NULL)) #for creating random numbers in c++
+int randINT = (rand() % 5) + 1 #for printing the random numbers from range(1 to 5)
+using global variables in a function we have to use two ::myNUM
